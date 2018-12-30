@@ -26,7 +26,11 @@ import java.util.List;
 
 public final class ChinesePackPlugin extends SonarPlugin {
 
+	/**
+	 * main
+	 */
   public List getExtensions() {
     return Collections.emptyList();
+    
   }
 }
