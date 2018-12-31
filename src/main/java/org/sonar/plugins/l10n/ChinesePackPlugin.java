@@ -28,5 +28,6 @@ public final class ChinesePackPlugin extends SonarPlugin {
 
   public List getExtensions() {
     return Collections.emptyList();
+    
   }
 }
